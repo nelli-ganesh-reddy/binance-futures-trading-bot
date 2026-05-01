@@ -1,1 +1,0 @@
-# binance-futures-trading-bot
